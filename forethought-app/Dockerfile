@@ -1,4 +1,4 @@
-# Use the official Node.js latest image as the base image
+# Use the official Node.js latest image as the base image.
 FROM node:latest
 
 # Set the working directory inside the container
